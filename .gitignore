@@ -1,0 +1,17 @@
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio #
+######################
+*.suo
+*.user
+*.gpState
+TestResults
+bin
+obj
+pkg
+pkgobj
+packages
